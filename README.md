@@ -4,7 +4,7 @@ Một dự án website thương mại điện tử cơ bản, cho phép người
 
 Tham khảo từ: https://roadmap.sh/projects/ecommerce-api
 
-https://github.com/duong-kiet/ECommerce
+Link dự án: https://github.com/duong-kiet/ECommerce
 
 ## 🚀 Tính năng
 
